@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": "2025-07-31T15:48:10.406082",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.3416454828962179,
+      "arousal": 0.4045949844070802,
+      "dominance": 0.49362968070836616,
+      "sociability": 0.396240467303298,
+      "creativity": 0.3933163863169743,
+      "focus": 0.7242562694911499
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:03:10.806455",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.3334083759256271,
+      "arousal": 0.40907106301048235,
+      "dominance": 0.48736349747435587,
+      "sociability": 0.39254375276702963,
+      "creativity": 0.386724008533626,
+      "focus": 0.7185639526552734
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:03:37.343280",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.3900257045759803,
+      "arousal": 0.4083278287532896,
+      "dominance": 0.5261808613736386,
+      "sociability": 0.41173809333703515,
+      "creativity": 0.4382698254473505,
+      "focus": 0.7790660921101797
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:04:17.380767",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.4134277890362158,
+      "arousal": 0.40783916643385765,
+      "dominance": 0.5424753622103158,
+      "sociability": 0.41966846902337174,
+      "creativity": 0.4598163358363331,
+      "focus": 0.8042486509980031
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:05:35.481712",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.4032868490841323,
+      "arousal": 0.41373338892399925,
+      "dominance": 0.5347574351374278,
+      "sociability": 0.4150286370633621,
+      "creativity": 0.45184311832956225,
+      "focus": 0.7975828094180102
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:10:53.470613",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.37316812450156195,
+      "arousal": 0.4314919179562442,
+      "dominance": 0.5117655856456272,
+      "sociability": 0.40120214307335256,
+      "creativity": 0.42817312395870766,
+      "focus": 0.7779193004595397
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:11:34.267981",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.3386985411481553,
+      "arousal": 0.45064616839209465,
+      "dominance": 0.4856625070967339,
+      "sociability": 0.38561231864884704,
+      "creativity": 0.4008961627914235,
+      "focus": 0.7546427297134879
+    },
+    "intensity": 0.08,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:12:21.496454",
+    "mood": "high_focus",
+    "mood_vector": {
+      "valence": 0.30005522524796935,
+      "arousal": 0.46589367945548293,
+      "dominance": 0.45769051416977113,
+      "sociability": 0.36934876498184666,
+      "creativity": 0.3695327035703647,
+      "focus": 0.7246705647205051
+    },
+    "intensity": 0.09,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:13:31.622088",
+    "mood": "low_valence",
+    "mood_vector": {
+      "valence": 0.2623249318605826,
+      "arousal": 0.47839987351978974,
+      "dominance": 0.43053560552172626,
+      "sociability": 0.3539954353768973,
+      "creativity": 0.3381909731672148,
+      "focus": 0.6934656280742935
+    },
+    "intensity": 0.1,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  },
+  {
+    "timestamp": "2025-07-31T16:14:14.002842",
+    "mood": "low_valence",
+    "mood_vector": {
+      "valence": 0.2278365653060501,
+      "arousal": 0.48963317808637974,
+      "dominance": 0.4058422197936089,
+      "sociability": 0.3399840740719695,
+      "creativity": 0.30962549158631153,
+      "focus": 0.6649365990634917
+    },
+    "intensity": 0.1,
+    "reason": "sentiment_analysis",
+    "session_id": 1753976867,
+    "is_hybrid": false,
+    "is_emergent": false,
+    "stability": "medium",
+    "personality_influence": true,
+    "mood_type": "vector"
+  }
+]

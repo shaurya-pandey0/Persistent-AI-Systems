@@ -1,0 +1,58 @@
+Architecture
+Root/
+├── app.py
+├── .env
+├── requirements.txt
+├── vectorstore.py
+├── performance_tests.py
+├── show_faiss_contents.py
+├── test_interactive_sentiment.py
+├── test_memory_pipeline.py
+├── test_mood_fix.py
+├── test_sentiment_to_hormone_mood.py
+├── test_threshold_optimization.py
+├── config/
+│   ├── __init__.py
+│   └── constants.py
+├── core/
+│   ├── api_client.py
+│   ├── __init__.py
+│   ├── prompt_builder.py
+│   ├── context_assembler.py
+│   ├── faiss_utils.py
+│   ├── context_block_builder.py
+│   └── fact_extractor.py
+├── data/
+│   └── 
+├── memory/
+│   ├── session_summarizer.py
+│   ├── __init__.py
+│   ├── long_term_memory.py
+│   ├── context_retriever.py
+│   ├── hierarchical_memory.py
+│   ├── fact_memory.py
+│   ├── tools.py(rehydration using json)
+│   └── turn_memory.py
+├── persona/
+│   ├── __init__.py
+│   ├── mood_adjustments.json
+│   ├── relationship_status.py
+│   ├── mood_tracker.py
+│   ├── adaptive_baseline_manager.py
+│   ├── hormone_adjuster.py
+│   ├── hormone_api.py
+│   ├── emotion_nsfw_checker.py
+│   ├── update_tiny_model_state.py
+│   ├── tiny_model_writer.py
+│   ├── update_faiss_memory_state.py
+│   ├── faiss_memory_writer.py
+│   ├── persona.json
+│   └── personality.json
+├── utils/
+│   ├── __init__.py
+│   ├── session_id.py
+│   └── ui_helpers.py
+├── scripts/                      
+│   └── startup_integration.py  
+├── tests 
+│   └── test_data

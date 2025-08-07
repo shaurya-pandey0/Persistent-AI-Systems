@@ -1,0 +1,4 @@
+{"timestamp": "2025-08-05T16:00:31", "turn": {"user": "hi", "assistant": "Hello! How can I help you today?"}, "metadata": {"turn_number": 1, "hash": "2570aee8e7e7d25e3d2a12d696cfddb4", "phase": "2.0"}}
+{"timestamp": "2025-08-05T16:00:43", "turn": {"user": "What is the capital of France?", "assistant": "The capital of France is Paris."}, "metadata": {"turn_number": 2, "hash": "86649e4fcbb8321a225ccf8e610cbe0c", "phase": "2.0"}}
+{"timestamp": "2025-08-05T16:00:43", "turn": {"user": "Who wrote 1984?", "assistant": "George Orwell."}, "metadata": {"turn_number": 3, "hash": "83d865e1329d292c5660a00c13886a5f", "phase": "2.0"}}
+{"timestamp": "2025-08-05T16:00:43", "turn": {"user": "Tell me a joke", "assistant": "Why don’t scientists trust atoms? Because they make up everything!"}, "metadata": {"turn_number": 4, "hash": "94189b4aae0b039d79df247b55fe71d1", "phase": "2.0"}}

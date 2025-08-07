@@ -1,0 +1,22 @@
+{
+  "current_mood": "low_valence",
+  "mood_vector": {
+    "valence": 0.2278365653060501,
+    "arousal": 0.48963317808637974,
+    "dominance": 0.4058422197936089,
+    "sociability": 0.3399840740719695,
+    "creativity": 0.30962549158631153,
+    "focus": 0.6649365990634917
+  },
+  "intensity": 0.1,
+  "context": {
+    "mixed_mood": false,
+    "conflicts": [],
+    "conflict_level": 0.0,
+    "dominant_emotions": []
+  },
+  "last_updated": "2025-07-31T16:14:13.991079",
+  "session_id": 1753976867,
+  "personality_version": "4.0",
+  "mood_type": "vector"
+}

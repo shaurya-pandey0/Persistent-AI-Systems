@@ -1,0 +1,722 @@
+{
+  "session_id": 1753976867,
+  "session_start": "2025-07-31T21:17:47.067899",
+  "last_activity": "2025-07-31T21:44:13.992001",
+  "current_mood": "low_valence",
+  "mood_intensity": 0.1,
+  "session_mood_changes": 10,
+  "mood_stability_score": 1.0,
+  "personality_adaptations": {},
+  "current_mood_vector": {
+    "valence": 0.2278365653060501,
+    "arousal": 0.48963317808637974,
+    "dominance": 0.4058422197936089,
+    "sociability": 0.3399840740719695,
+    "creativity": 0.30962549158631153,
+    "focus": 0.6649365990634917
+  },
+  "vector_mood_history": [
+    {
+      "timestamp": "2025-07-31T21:18:10.401096",
+      "vector": {
+        "valence": 0.3416454828962179,
+        "arousal": 0.4045949844070802,
+        "dominance": 0.49362968070836616,
+        "sociability": 0.396240467303298,
+        "creativity": 0.3933163863169743,
+        "focus": 0.7242562694911499
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.3416454828962179,
+          "arousal": 0.4045949844070802,
+          "dominance": 0.49362968070836616,
+          "sociability": 0.396240467303298,
+          "creativity": 0.3933163863169743,
+          "focus": 0.7242562694911499
+        },
+        "hormone_levels": {
+          "dopamine": 0.4947784268101362,
+          "serotonin": 0.4958227414481089,
+          "cortisol": 0.5125317756556732,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.3416454828962179,
+            "arousal": 0.4045949844070802,
+            "dominance": 0.49362968070836616,
+            "sociability": 0.396240467303298,
+            "creativity": 0.3933163863169743,
+            "focus": 0.7242562694911499
+          },
+          "transition_speed": 0.11580487797653556,
+          "transition_vector": {
+            "valence": -0.15835451710378212,
+            "arousal": -0.0954050155929198,
+            "dominance": -0.006370319291633841,
+            "sociability": -0.10375953269670202,
+            "creativity": -0.1066836136830257,
+            "focus": 0.22425626949114985
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": false,
+          "reason": "insufficient_history"
+        },
+        "timestamp": "2025-07-31T21:18:10.401096",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:33:10.794760",
+      "vector": {
+        "valence": 0.3334083759256271,
+        "arousal": 0.40907106301048235,
+        "dominance": 0.48736349747435587,
+        "sociability": 0.39254375276702963,
+        "creativity": 0.386724008533626,
+        "focus": 0.7185639526552734
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.3334083759256271,
+          "arousal": 0.40907106301048235,
+          "dominance": 0.48736349747435587,
+          "sociability": 0.39254375276702963,
+          "creativity": 0.386724008533626,
+          "focus": 0.7185639526552734
+        },
+        "hormone_levels": {
+          "dopamine": 0.48960359332297587,
+          "serotonin": 0.49167539630594814,
+          "cortisol": 0.5247943306237737,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.3334083759256271,
+            "arousal": 0.40907106301048235,
+            "dominance": 0.48736349747435587,
+            "sociability": 0.39254375276702963,
+            "creativity": 0.386724008533626,
+            "focus": 0.7185639526552734
+          },
+          "transition_speed": 0.0058267963272493895,
+          "transition_vector": {
+            "valence": -0.008237106970590768,
+            "arousal": 0.004476078603402156,
+            "dominance": -0.006266183234010292,
+            "sociability": -0.003696714536268353,
+            "creativity": -0.006592377783348313,
+            "focus": -0.005692316835876454
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": false,
+          "reason": "insufficient_history"
+        },
+        "timestamp": "2025-07-31T21:33:10.794760",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:33:37.325505",
+      "vector": {
+        "valence": 0.3900257045759803,
+        "arousal": 0.4083278287532896,
+        "dominance": 0.5261808613736386,
+        "sociability": 0.41173809333703515,
+        "creativity": 0.4382698254473505,
+        "focus": 0.7790660921101797
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.3900257045759803,
+          "arousal": 0.4083278287532896,
+          "dominance": 0.5261808613736386,
+          "sociability": 0.41173809333703515,
+          "creativity": 0.4382698254473505,
+          "focus": 0.7790660921101797
+        },
+        "hormone_levels": {
+          "dopamine": 0.5446055382819815,
+          "serotonin": 0.5305089950508997,
+          "cortisol": 0.48707302589117385,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.3900257045759803,
+            "arousal": 0.4083278287532896,
+            "dominance": 0.5261808613736386,
+            "sociability": 0.41173809333703515,
+            "creativity": 0.4382698254473505,
+            "focus": 0.7790660921101797
+          },
+          "transition_speed": 0.037903370624244176,
+          "transition_vector": {
+            "valence": 0.05661732865035318,
+            "arousal": -0.0007432342571927486,
+            "dominance": 0.03881736389928275,
+            "sociability": 0.01919434057000552,
+            "creativity": 0.05154581691372451,
+            "focus": 0.060502139454906345
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": false,
+          "reason": "insufficient_history"
+        },
+        "timestamp": "2025-07-31T21:33:37.325505",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:34:17.364851",
+      "vector": {
+        "valence": 0.4134277890362158,
+        "arousal": 0.40783916643385765,
+        "dominance": 0.5424753622103158,
+        "sociability": 0.41966846902337174,
+        "creativity": 0.4598163358363331,
+        "focus": 0.8042486509980031
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.4134277890362158,
+          "arousal": 0.40783916643385765,
+          "dominance": 0.5424753622103158,
+          "sociability": 0.41966846902337174,
+          "creativity": 0.4598163358363331,
+          "focus": 0.8042486509980031
+        },
+        "hormone_levels": {
+          "dopamine": 0.5674987736345484,
+          "serotonin": 0.5461705069822581,
+          "cortisol": 0.4709134153565282,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.4134277890362158,
+            "arousal": 0.40783916643385765,
+            "dominance": 0.5424753622103158,
+            "sociability": 0.41966846902337174,
+            "creativity": 0.4598163358363331,
+            "focus": 0.8042486509980031
+          },
+          "transition_speed": 0.015807448763247866,
+          "transition_vector": {
+            "valence": 0.023402084460235506,
+            "arousal": -0.0004886623194319539,
+            "dominance": 0.01629450083667716,
+            "sociability": 0.007930375686336588,
+            "creativity": 0.021546510388982587,
+            "focus": 0.025182558887823392
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": false,
+          "reason": "insufficient_history"
+        },
+        "timestamp": "2025-07-31T21:34:17.364851",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:35:35.467051",
+      "vector": {
+        "valence": 0.4032868490841323,
+        "arousal": 0.41373338892399925,
+        "dominance": 0.5347574351374278,
+        "sociability": 0.4150286370633621,
+        "creativity": 0.45184311832956225,
+        "focus": 0.7975828094180102
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.4032868490841323,
+          "arousal": 0.41373338892399925,
+          "dominance": 0.5347574351374278,
+          "sociability": 0.4150286370633621,
+          "creativity": 0.45184311832956225,
+          "focus": 0.7975828094180102
+        },
+        "hormone_levels": {
+          "dopamine": 0.5614389176527366,
+          "serotonin": 0.5411221761866305,
+          "cortisol": 0.4865400789631352,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.4032868490841323,
+            "arousal": 0.41373338892399925,
+            "dominance": 0.5347574351374278,
+            "sociability": 0.4150286370633621,
+            "creativity": 0.45184311832956225,
+            "focus": 0.7975828094180102
+          },
+          "transition_speed": 0.007171996760314409,
+          "transition_vector": {
+            "valence": -0.010140939952083483,
+            "arousal": 0.0058942224901415985,
+            "dominance": -0.007717927072887987,
+            "sociability": -0.0046398319600096105,
+            "creativity": -0.007973217506770824,
+            "focus": -0.006665841579992948
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": true,
+          "predicted_vector": {
+            "valence": 0.3104422242048993,
+            "arousal": 0.33091744229103853,
+            "dominance": 0.5681245728693585,
+            "sociability": 0.3334561286441898,
+            "creativity": 0.405612511925942,
+            "focus": 1.0
+          },
+          "prediction_horizon_hours": 6,
+          "confidence": 0.9610170032567211,
+          "trend_analysis": {
+            "valence": -0.01934263018317354,
+            "arousal": -0.01725332221520015,
+            "dominance": 0.006951487027485559,
+            "sociability": -0.016994272587327573,
+            "creativity": -0.00963137633408755,
+            "focus": 0.059516561883602034
+          }
+        },
+        "timestamp": "2025-07-31T21:35:35.467051",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:40:53.462120",
+      "vector": {
+        "valence": 0.37316812450156195,
+        "arousal": 0.4314919179562442,
+        "dominance": 0.5117655856456272,
+        "sociability": 0.40120214307335256,
+        "creativity": 0.42817312395870766,
+        "focus": 0.7779193004595397
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.37316812450156195,
+          "arousal": 0.4314919179562442,
+          "dominance": 0.5117655856456272,
+          "sociability": 0.40120214307335256,
+          "creativity": 0.42817312395870766,
+          "focus": 0.7779193004595397
+        },
+        "hormone_levels": {
+          "dopamine": 0.5435630004177633,
+          "serotonin": 0.526264731496185,
+          "cortisol": 0.5333863818775147,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.37316812450156195,
+            "arousal": 0.4314919179562442,
+            "dominance": 0.5117655856456272,
+            "sociability": 0.40120214307335256,
+            "creativity": 0.42817312395870766,
+            "focus": 0.7779193004595397
+          },
+          "transition_speed": 0.021338183404325084,
+          "transition_vector": {
+            "valence": -0.030118724582570366,
+            "arousal": 0.017758529032244952,
+            "dominance": -0.022991849491800553,
+            "sociability": -0.01382649399000957,
+            "creativity": -0.023669994370854597,
+            "focus": -0.019663508958470466
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": true,
+          "predicted_vector": {
+            "valence": 0.2717026241028115,
+            "arousal": 0.37668545232123957,
+            "dominance": 0.521178054162129,
+            "sociability": 0.3221638575320346,
+            "creativity": 0.3707116231256738,
+            "focus": 1.0
+          },
+          "prediction_horizon_hours": 6,
+          "confidence": 0.9663027712348599,
+          "trend_analysis": {
+            "valence": -0.02113864591640634,
+            "arousal": -0.011418013673959301,
+            "dominance": 0.0019609309409378737,
+            "sociability": -0.016466309487774573,
+            "creativity": -0.011971146006882058,
+            "focus": 0.04631988340992329
+          }
+        },
+        "timestamp": "2025-07-31T21:40:53.462120",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:41:34.254589",
+      "vector": {
+        "valence": 0.3386985411481553,
+        "arousal": 0.45064616839209465,
+        "dominance": 0.4856625070967339,
+        "sociability": 0.38561231864884704,
+        "creativity": 0.4008961627914235,
+        "focus": 0.7546427297134879
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.3386985411481553,
+          "arousal": 0.45064616839209465,
+          "dominance": 0.4856625070967339,
+          "sociability": 0.38561231864884704,
+          "creativity": 0.4008961627914235,
+          "focus": 0.7546427297134879
+        },
+        "hormone_levels": {
+          "dopamine": 0.5224024815577162,
+          "serotonin": 0.508793803678655,
+          "cortisol": 0.5851291122737473,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.3386985411481553,
+            "arousal": 0.45064616839209465,
+            "dominance": 0.4856625070967339,
+            "sociability": 0.38561231864884704,
+            "creativity": 0.4008961627914235,
+            "focus": 0.7546427297134879
+          },
+          "transition_speed": 0.024311711445998658,
+          "transition_vector": {
+            "valence": -0.03446958335340666,
+            "arousal": 0.01915425043585045,
+            "dominance": -0.02610307854889332,
+            "sociability": -0.015589824424505516,
+            "creativity": -0.027276961167284175,
+            "focus": -0.023276570746051828
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": true,
+          "predicted_vector": {
+            "valence": 0.22809182650689033,
+            "arousal": 0.41680354100381667,
+            "dominance": 0.47583108339163716,
+            "sociability": 0.3071750514366279,
+            "creativity": 0.33293924584839957,
+            "focus": 0.9292548872313081
+          },
+          "prediction_horizon_hours": 6,
+          "confidence": 0.9701938383664221,
+          "trend_analysis": {
+            "valence": -0.02304306555026353,
+            "arousal": -0.007050547372557907,
+            "dominance": -0.0020482132718951545,
+            "sociability": -0.016341097335878994,
+            "creativity": -0.014157691029796646,
+            "focus": 0.03637753281621255
+          }
+        },
+        "timestamp": "2025-07-31T21:41:34.254589",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:42:21.482555",
+      "vector": {
+        "valence": 0.30005522524796935,
+        "arousal": 0.46589367945548293,
+        "dominance": 0.45769051416977113,
+        "sociability": 0.36934876498184666,
+        "creativity": 0.3695327035703647,
+        "focus": 0.7246705647205051
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.30005522524796935,
+          "arousal": 0.46589367945548293,
+          "dominance": 0.45769051416977113,
+          "sociability": 0.36934876498184666,
+          "creativity": 0.3695327035703647,
+          "focus": 0.7246705647205051
+        },
+        "hormone_levels": {
+          "dopamine": 0.49515505883682276,
+          "serotonin": 0.4864670282698008,
+          "cortisol": 0.6329567174954677,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.30005522524796935,
+            "arousal": 0.46589367945548293,
+            "dominance": 0.45769051416977113,
+            "sociability": 0.36934876498184666,
+            "creativity": 0.3695327035703647,
+            "focus": 0.7246705647205051
+          },
+          "transition_speed": 0.026576999628596498,
+          "transition_vector": {
+            "valence": -0.03864331590018594,
+            "arousal": 0.015247511063388286,
+            "dominance": -0.027971992926962785,
+            "sociability": -0.016263553667000386,
+            "creativity": -0.031363459221058765,
+            "focus": -0.02997216499298283
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": true,
+          "predicted_vector": {
+            "valence": 0.18008836039675097,
+            "arousal": 0.4454298871287727,
+            "dominance": 0.43230482267163384,
+            "sociability": 0.29095802397095466,
+            "creativity": 0.2912523257125835,
+            "focus": 0.8594729035528081
+          },
+          "prediction_horizon_hours": 6,
+          "confidence": 0.9731354878830053,
+          "trend_analysis": {
+            "valence": -0.02499309684400383,
+            "arousal": -0.004263290068064633,
+            "dominance": -0.005288685728778608,
+            "sociability": -0.016331404377269168,
+            "creativity": -0.01630841205370441,
+            "focus": 0.028083820590063133
+          }
+        },
+        "timestamp": "2025-07-31T21:42:21.482555",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:43:31.605006",
+      "vector": {
+        "valence": 0.2623249318605826,
+        "arousal": 0.47839987351978974,
+        "dominance": 0.43053560552172626,
+        "sociability": 0.3539954353768973,
+        "creativity": 0.3381909731672148,
+        "focus": 0.6934656280742935
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.2623249318605826,
+          "arousal": 0.47839987351978974,
+          "dominance": 0.43053560552172626,
+          "sociability": 0.3539954353768973,
+          "creativity": 0.3381909731672148,
+          "focus": 0.6934656280742935
+        },
+        "hormone_levels": {
+          "dopamine": 0.46678693461299414,
+          "serotonin": 0.464113366333593,
+          "cortisol": 0.6761928726159028,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.2623249318605826,
+            "arousal": 0.47839987351978974,
+            "dominance": 0.43053560552172626,
+            "sociability": 0.3539954353768973,
+            "creativity": 0.3381909731672148,
+            "focus": 0.6934656280742935
+          },
+          "transition_speed": 0.02588189879234155,
+          "transition_vector": {
+            "valence": -0.03773029338738676,
+            "arousal": 0.012506194064306808,
+            "dominance": -0.027154908648044873,
+            "sociability": -0.01535332960494934,
+            "creativity": -0.031341730403149914,
+            "focus": -0.0312049366462116
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": true,
+          "predicted_vector": {
+            "valence": 0.13556489551955997,
+            "arousal": 0.4668798060636776,
+            "dominance": 0.39348792846664693,
+            "sociability": 0.2761263342445759,
+            "creativity": 0.2518928255230627,
+            "focus": 0.7966472963805833
+          },
+          "prediction_horizon_hours": 6,
+          "confidence": 0.9755916548010117,
+          "trend_analysis": {
+            "valence": -0.026408340904379712,
+            "arousal": -0.002400014053356695,
+            "dominance": -0.0077182660531415264,
+            "sociability": -0.016222729402566964,
+            "creativity": -0.017978780759198357,
+            "focus": 0.021496180897143717
+          }
+        },
+        "timestamp": "2025-07-31T21:43:31.605006",
+        "session_id": 1753976867
+      }
+    },
+    {
+      "timestamp": "2025-07-31T21:44:13.990006",
+      "vector": {
+        "valence": 0.2278365653060501,
+        "arousal": 0.48963317808637974,
+        "dominance": 0.4058422197936089,
+        "sociability": 0.3399840740719695,
+        "creativity": 0.30962549158631153,
+        "focus": 0.6649365990634917
+      },
+      "analysis": {
+        "mood_vector": {
+          "valence": 0.2278365653060501,
+          "arousal": 0.48963317808637974,
+          "dominance": 0.4058422197936089,
+          "sociability": 0.3399840740719695,
+          "creativity": 0.30962549158631153,
+          "focus": 0.6649365990634917
+        },
+        "hormone_levels": {
+          "dopamine": 0.4408514536940834,
+          "serotonin": 0.44346581813641583,
+          "cortisol": 0.715278356844776,
+          "oxytocin": 0.5
+        },
+        "mixed_moods": {
+          "mixed_mood": false,
+          "conflicts": [],
+          "conflict_level": 0.0,
+          "dominant_emotions": []
+        },
+        "transition": {
+          "transition_occurred": true,
+          "current_vector": {
+            "valence": 0.2278365653060501,
+            "arousal": 0.48963317808637974,
+            "dominance": 0.4058422197936089,
+            "sociability": 0.3399840740719695,
+            "creativity": 0.30962549158631153,
+            "focus": 0.6649365990634917
+          },
+          "transition_speed": 0.023586821457645454,
+          "transition_vector": {
+            "valence": -0.034488366554532496,
+            "arousal": 0.011233304566589997,
+            "dominance": -0.024693385728117356,
+            "sociability": -0.014011361304927805,
+            "creativity": -0.028565481580903274,
+            "focus": -0.028529029010801787
+          },
+          "was_smoothed": false
+        },
+        "prediction": {
+          "prediction_available": true,
+          "predicted_vector": {
+            "valence": 0.09719811665295414,
+            "arousal": 0.48465710356784203,
+            "dominance": 0.3606464852945412,
+            "sociability": 0.2631764296265149,
+            "creativity": 0.21824572754774108,
+            "focus": 0.7441061666139677
+          },
+          "prediction_horizon_hours": 6,
+          "confidence": 0.9777411424874866,
+          "trend_analysis": {
+            "valence": -0.027216343469394992,
+            "arousal": -0.0010366821913620262,
+            "dominance": -0.00941577802063911,
+            "sociability": -0.016001592592803048,
+            "creativity": -0.019037450841368847,
+            "focus": 0.016493659906349167
+          }
+        },
+        "timestamp": "2025-07-31T21:44:13.990006",
+        "session_id": 1753976867
+      }
+    }
+  ]
+}
