@@ -117,3 +117,15 @@ New folder/
 - FAISS embeddings use BGE-M3 model (downloaded on first run)
 - All memory is stored locally in JSON/JSONL files
 - Session IDs are generated per browser session
+
+
+Summary 
+I implemented a Hierarchical Agentic Memory System (HAMS) to solve the "goldfish memory" problem inherent in LLM context windows. This PR integrates a FAISS-based vector store for long-term semantic retrieval while maintaining a JSONL-based short-term buffer for immediate conversational continuity.
+
+Key Technical Challenges Solved:
+
+Semantic vs. Chronological Retrieval: I built a custom ContextRetriever pipeline that hybridizes recent turn history with semantically relevant past sessions. Using BGE-M3 embeddings, the system calculates cosine similarity to fetch historical context (facts/summaries) only when relevant to the current user query, optimizing token usage.
+
+Temporal Decay & Mood Logic: Unlike standard RAG implementations, I added a "hormonal" mood layer (sentiment_to_hormone_mood) where the agent's emotional state persists and decays over time based on interaction frequency, affecting how memories are prioritized and synthesized in the final prompt.
+
+State Management: The system handles concurrent read/write operations for the vector index and JSONL logs within a Streamlit session state, ensuring thread safety during the "End Chat & Save" serialization process.
