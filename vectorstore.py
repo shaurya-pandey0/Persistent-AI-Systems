@@ -6,6 +6,7 @@ Thread-safe, persistent FAISS store with Phase 3 automated retraining.
 Phase 1: Basic FAISS operations (WORKING) ✅
 Phase 2: IndexIVFFlat optimization, batch processing (WORKING) ✅
 Phase 3: Automated retraining, distribution drift monitoring (NEW) 🚀
+# Implements FAISS search with BGE-M3 embeddings at the top.
 """
 
 from __future__ import annotations
